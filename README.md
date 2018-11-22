@@ -1,3 +1,3 @@
 # AlgoCasts
 
-Practice with simple algorithms and data structure problems in Javascript.
+Practice with simple datastructure and algorithm problems in Javascript.
